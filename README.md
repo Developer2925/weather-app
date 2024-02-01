@@ -1,3 +1,7 @@
+#Project link: https://weather-app-bay-theta.vercel.app/
+
+# Steps to run the application locally
+
 #Clone the repository
 
 #Install the dependencies (npm i axios, luxon, react, react-toastify)
