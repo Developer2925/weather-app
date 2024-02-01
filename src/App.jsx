@@ -4,7 +4,7 @@ import Forecast from "./components/Forecast";
 import Inputs from "./components/Inputs";
 import { LocationAndTime } from "./components/LocationAndTime";
 import TempAndDetails from "./components/TempAndDetails";
-import TopButtons from "./components/topButtons";
+import TopButtons from "./components/TopButtons";
 import getFormattedWeatherData from "./server/WeatherService";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
