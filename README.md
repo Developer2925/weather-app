@@ -1,7 +1,10 @@
-Clone the repository
-Install the dependencies (npm i axios, luxon, react, react-toastify)
-Get your API key from OpenWeatherMap API and add to WeatherService.js file inside the Server folder
-To run the application/project locally use command “npx run dev”
+#Clone the repository
+
+#Install the dependencies (npm i axios, luxon, react, react-toastify)
+
+#Get your API key from OpenWeatherMap API and add to WeatherService.js file inside the Server folder
+
+#To run the application/project locally use command “npx run dev”
 
 
 
